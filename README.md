@@ -1,4 +1,4 @@
-# Project Redscape
+<h1 align="center">Project Redscape</h1>
 
 ## **Overview**
 Project Redscape is an exciting text-based card game, developed in C++ for [TheGame.cpp](https://henrzven.github.io/the-game/). Immerse yourself in a world of where you must use your wits and strategy to win.
@@ -15,7 +15,11 @@ g++ -o build/redscape -Iinclude main.cpp src/cards.cpp src/cutscenes.cpp src/uti
 
 ```bash
 ./build/redscape
+
 ```
+
+## Development Guide
+This document provides guidelines for the project development. For more details, refer to the [Development Document](docs/DEVELOPMENT.md).
 
 ## Contribute
 If you want to add new functionalities or improve existing ones, follow these steps:
@@ -27,5 +31,12 @@ If you want to add new functionalities or improve existing ones, follow these st
 6. Push your changes to your forked repository: `git push origin your-branch-name`.
 7. Open a Pull Request in this repository and reference the original issue.
 
-## **License**
-This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
+## Development Team
+
+| [![Druxorey](https://github.com/druxorey.png?size=100)](https://github.com/druxorey) | [![Santiago](https://github.com/santiago-commit.png?size=100)](https://github.com/santiago-commit) |
+| - | - |
+| [Druxorey](https://github.com/druxorey) | [Santiago](https://github.com/santiago-commit)
+
+## License
+
+This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
